@@ -9,7 +9,6 @@ const SECTIONS = [
 ]
 
 const BOOKMARKS = [
-    { title: "Welcome", page: 2 },
     { title: "Pittsburgh Fabric", page: 5 },
     { title: "Not One Less", page: 10 },
     { title: "Kat Kadewari", page: 11 },
